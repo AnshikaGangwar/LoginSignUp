@@ -7,7 +7,7 @@ import {
   StyleSheet,
 } from 'react-native';
 import firebase from 'react-native-firebase';
-
+//anshika
 export default class Login extends React.Component {
   state = {email: '', password: '', errormsg: ''};
   handleSignUp = () => {
